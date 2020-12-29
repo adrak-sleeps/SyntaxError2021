@@ -1,0 +1,7 @@
+Hello guys, 
+Using vim is a pain in the ass, why would one use a keyboard only text editor.
+I do not understand this thing, yet here I am.
+I will try my best to explore everything related to web dev, both front end and backend.
+Hope I will do good.
+Regards, 
+Shikhar Agrawal
