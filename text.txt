@@ -5,3 +5,11 @@ I will try my best to explore everything related to web dev, both front end and 
 Hope I will do good.
 Regards, 
 Shikhar Agrawal
+I have associated notepad++ with git bash, yet i am unable to figure out how to use it.
+For the time being I will have to do with VIM, the keyboard text editor.
+Hope its creator is well, so I can kill him/her personally.
+On the other hand, notepad might be most basic bitch in the whole damn world, but still it has its pros too.
+I now realise that I might have strayed off topic, I must get back to learning git.
+Regards,
+Shikhar Agrawal
+
