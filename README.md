@@ -1,2 +1,2 @@
 "# SyntaxError2021" 
-First Hackathon project for me and my team, lets see how it goes...
+First Hackathon project for me and my team.
