@@ -1,4 +1,4 @@
 Hello people, 
-I do not know why you are reading this, but fuck you!
+I do not know why you are reading this
 Regards, 
 Shikhar Agrawal
